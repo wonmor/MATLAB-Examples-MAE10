@@ -1,0 +1,1 @@
+[a, b] = solve_quadratic(1, -3, 2)  % Example usage for y = x^2 - 3x + 2
